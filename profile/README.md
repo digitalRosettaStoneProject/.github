@@ -1,12 +1,8 @@
 ## Hi there 👋
 
-<!--
+Welcome to the Digital Rosetta Stone Project's GitHub page! Here, you can find our high resolution photographs of the Rosetta Stone that wee took in 2018, the raw data of the text alignment in Ugarit iAligner, the morphosyntactic analysis (= treebanking), and further material of research and documentation.
 
-**Here are some ideas to get you started:**
+More about the project offers our [old website (2014-2024)](https://rosetta-stone.dh.uni-leipzig.de/)
+and our [new website (2025-)](https://www.digital-rosetta-stone.org/).
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Thank you for your interest in ancient languages, Egyptology and epigraphy!
